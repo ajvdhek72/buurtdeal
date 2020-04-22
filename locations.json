@@ -11,13 +11,13 @@
         ]
       },
       "properties": {
-        "Naam": "Truus.buurdeal.nl",
+        "Shopname": "Truus.buurtdeal.nl",
         "phone": "06-22529915",
         "address": "Noorderweg 29",
         "city": "Bussum",
         "country": "Nederland",
         "postalCode": "1401TV",
-        "state": "Noord Holland"
+        "area": "Centrum"
       }
     },
     {
@@ -30,13 +30,51 @@
         ]
       },
       "properties": {
-        "Naam": "Kees.buurdeal.nl",
+        "Shopname": "Kees.buurtdeal.nl",
         "phone": "030-24313232",
         "address": "Oudenoord 200",
         "city": "Utrecht",
         "country": "Nederland",
         "postalCode": "3541",
-        "state": "Utrecht"
+        "area": "Centrum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.998527,
+          51.918579
+        ]
+      },
+      "properties": {
+        "Shopname": "Gerrit.buurtdeal.nl",
+        "phone": "018360-23232",
+        "address": "Bazeldijk 3",
+        "city": "Meerkerk",
+        "country": "Nederland",
+        "postalCode": "4233",
+        "area": "Centrum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.092382,
+          51.993940
+        ]
+      },
+      "properties": {
+        "Shopname": "Jolanda.buurtdeal.nl",
+        "phone": "018360-23232",
+        "address": "Voorstraat 31",
+        "city": "Vianen",
+        "country": "Nederland",
+        "postalCode": "4411",
+        "area": "Centrum"
       }
     }
     
