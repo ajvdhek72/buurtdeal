@@ -6,17 +6,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.168840,
+          5.168840,
           52.275320
         ]
       },
       "properties": {
-        "phoneFormatted": "+31 6 22529915",
         "phone": "06-22529915",
         "address": "Noorderweg 29",
         "city": "Bussum",
         "country": "Nederland",
-        "crossStreet": "at 15th St NW",
         "postalCode": "1401TV",
         "state": "Noord Holland"
       }
